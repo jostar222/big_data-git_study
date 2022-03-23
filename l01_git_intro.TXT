@@ -9,3 +9,11 @@
 8. git status 로 저장할 수 있는 상태인지 확인하기
 9. git log --oneline --decorate --graph --all 으로 커밋 이력 확인하기
 10. git commit -a -m "설명" : -a는 git add * 과 같음.
+11. git diff 로 파일 상태 비교(스냅샷이 찍힘. 내역확인)
+12. github 가입 후 repository 생성
+13. 생성한 repository 주소를 등록 git remote add <리모트저장소이름(origin)> <주소(https or ssh)=url>
+14. git push 저장소이름(origin) 브랜치이름(master) : 리모트 저장소에 작업중인 가지의 이력 등록
+
+
+
+:q 는 취소(?) 중지(?)
